@@ -18,3 +18,4 @@ Type 'demo()' for some demos, 'help()' for on-line help, or
 Type 'q()' to quit R.
 
 > 
+echo "abcde hello"
